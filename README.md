@@ -1,6 +1,6 @@
 <!-- SVGアニメーションヘッダー -->
 <p align="center">
-  <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+  <img src="img/header.svg" alt="Header" width="98%">
 </p>
 
 <!-- GitHubフォローボタン -->
