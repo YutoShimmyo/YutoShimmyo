@@ -1,28 +1,61 @@
-<svg viewBox="0 0 900 160" width="900" height="160" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg {
-      fill: black;
-    }
+<svg class="My_Page" fill="none" viewBox="0 0 900 140" width="900" height="140" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes typing1 {
+          from { width: 0; }
+          to { width: 24em; }
+        }
 
-    .line {
-      font-family: 'Consolas', 'Monaco', monospace;
-      font-size: 28px;
-      fill: #26e10b;
-    }
-  </style>
+        @keyframes typing2 {
+          from { width: 0; }
+          to { width: 24em; }
+        }
 
-  <!-- 背景 -->
-  <rect width="100%" height="100%" class="bg" rx="8" />
+        @keyframes blink-caret1 {
+          50% { border-color: transparent; }
+        }
 
-  <!-- Line 1 -->
-  <text x="40" y="65" class="line" opacity="0">
-    Welcome TO MyGitHub
-    <animate attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" fill="freeze" />
-  </text>
+        @keyframes blink-caret2 {
+          50% { border-color: transparent; }
+        }
 
-  <!-- Line 2 -->
-  <text x="40" y="120" class="line" opacity="0">
-    I am Yuto Shimmyo
-    <animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze" />
-  </text>
+        .container {
+          width: 100%;
+          height: 100%;
+          background: #000000;
+          border-radius: 5px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
+        .line {
+          font: bold 220% Consolas, Monaco, monospace;
+          white-space: nowrap;
+          overflow: hidden;
+          color: #26e10b;
+          text-shadow: #26e10b 0px 0 5px;
+          margin: 0.1em 1em;
+          display: inline-block;
+        }
+
+        .line1 {
+          border-right: .2em solid white;
+          width: 0;
+          animation: typing1 2s steps(30, end) forwards, blink-caret1 0.6s step-end infinite alternate;
+        }
+
+        .line2 {
+          border-right: .2em solid white;
+          width: 0;
+          animation: typing2 2s steps(30, end) 2.2s forwards, blink-caret2 0.6s step-end infinite alternate;
+        }
+      </style>
+      <div class="container">
+        <div class="line line1">Welcome TO MyGitHub</div>
+        <div class="line line2">I am Yuto Shimmyo</div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
