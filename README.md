@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YutoShimmyo&repo=YutoShimmyo&theme=tokyonight" alt="Header" width="98%">
+  <img src="img/header.svg" alt="Header" width="98%">
 </p>
 
 <p align="right">
