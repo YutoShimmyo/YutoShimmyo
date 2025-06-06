@@ -1,3 +1,8 @@
+<!-- SVGアニメーションヘッダー -->
+<p align="center">
+  <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+</p>
+
 <!-- GitHubフォローボタン -->
 <p align="right">
   <a href="https://github.com/YutoShimmyo">
@@ -5,72 +10,54 @@
   </a>
 </p>
 
-<!-- SVGアニメーションタイトル -->
-<div align="center">
-    <svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
-        <foreignObject width="100%" height="100%">
-            <div xmlns="http://www.w3.org/1999/xhtml">
-                <style>
-                    @-webkit-keyframes typing {
-                        from { width: 0; }
-                    }
-                    @-webkit-keyframes blink-caret {
-                        50% { border-color: transparent; }
-                    }
-                    .container {
-                        width: 100%;
-                        height: 100%;
-                        background: #000000;
-                        border-radius: 5px;
-                    }
-                    h1 {
-                        font: bold 300% Consolas, Monaco, monospace;
-                        border-right: .2em solid white;
-                        width: 35em;
-                        margin: 0.05em 1.15em;
-                        padding-top: 4px;
-                        white-space: nowrap;
-                        overflow: hidden;
-                        -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
-                        color: #26e10b;
-                        text-shadow: #26e10b 0px 0 5px;
-                    }
-                </style>
-                <div class="container">
-                    <h1>Welcome TO MyGitHub</h1>
-                </div>
-            </div>
-        </foreignObject>
-    </svg>
-</div>
-
----
-
 ## 👋 Hi, I'm Yuto Shimmyo
 
-I'm a passionate developer who loves learning new technologies and building cool projects!
-
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/Framework-React-blue?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
-![VS Code](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code)
+I'm a passionate developer who enjoys exploring new technologies and building meaningful software.  
+I value clean code, collaboration, and lifelong learning.
 
 ---
 
-### 📊 GitHub Stats
-![YutoShimmyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight)
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### Tools & Environments
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 📁 Featured Projects
-- 🔹 [Project Name](https://github.com/YutoShimmyo/your-project): Description of what it does.
-- 🔹 [Another Cool Project](https://github.com/YutoShimmyo/another-project): Short description here.
+
+- 🔹 [Project Name](https://github.com/YutoShimmyo/project-name) — Short description of what the project does or its purpose.
+- 🔹 [Another Project](https://github.com/YutoShimmyo/another-project) — A concise explanation of this project's goals or technologies.
+
+<!-- Add more if you like -->
 
 ---
 
-### 📫 How to Reach Me
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: youremail@example.com
+### 📬 How to Reach Me
+
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📫 Email: your.email@example.com
+- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+
+---
+
+<!-- Optional: Fun Fact or Quote -->
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+
