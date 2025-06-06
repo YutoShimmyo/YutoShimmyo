@@ -1,9 +1,7 @@
-<!-- SVGアニメーションヘッダー -->
 <p align="center">
-  <img src="img/header.svg" alt="Header" width="98%">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YutoShimmyo&repo=YutoShimmyo&theme=tokyonight" alt="Header" width="98%">
 </p>
 
-<!-- GitHubフォローボタン -->
 <p align="right">
   <a href="https://github.com/YutoShimmyo">
     <img src="https://img.shields.io/github/followers/YutoShimmyo?label=Follow&style=social" alt="GitHub Follow" />
@@ -12,52 +10,56 @@
 
 ## 👋 Hi, I'm Yuto Shimmyo
 
-I'm a passionate developer who enjoys exploring new technologies and building meaningful software.  
-I value clean code, collaboration, and lifelong learning.
+I'm a Master's student in Japan, passionate about bridging the gap between human well-being and technology. My journey started with building **autonomous robots**, and now I'm focused on developing **on-device AI** systems that respect user privacy and enhance our daily lives. I enjoy tackling challenges from low-level hardware control to high-level AI model implementation.
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #### Tools & Environments
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-EF7C00?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 📁 Featured Projects
 
-- 🔹 [Project Name](https://github.com/YutoShimmyo/project-name) — Short description of what the project does or its purpose.
-- 🔹 [Another Project](https://github.com/YutoShimmyo/another-project) — A concise explanation of this project's goals or technologies.
-
-<!-- Add more if you like -->
+- 🧠 **On-Device AI for Digital Well-being** — My master's research project. A privacy-first Android application that analyzes a user's "Positive Solitude" (quality alone time) using on-device multimodal AI. This project aims to enhance mental well-being by providing personalized feedback without sending sensitive data to the cloud.
+- 🤖 **Autonomous Robot for Robot Challenge** — Led a team to develop an autonomous navigation robot using ROS2 for the Nakanoshima Robot Challenge. Responsible for the overall system architecture, from mechanical design (Fusion 360) to software development (C++/Python).
+- 🍬 **Concentration-Boosting Gum Dispenser** — A fun Arduino-based robot that dispenses gum to help you focus. This project combines hardware control and simple mechanics. [**Watch the video!**](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl）)
+- 💻 **AI & Camp Hackathon Projects** — Participated in several hackathons including the All Japan AI Hackathon and GEEK CAMP, developing web applications using JavaScript and Python.
 
 ---
 
 ### 📬 How to Reach Me
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📫 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
+- 🐦 **Twitter(X):** [@yourhandle](https://twitter.com/yourhandle)
+- 📫 **Email:** your.email@example.com
+- 🌐 **Portfolio/Blog:** [your-portfolio-site.com](https://your-portfolio-site.com)
 
 ---
 
-<!-- Optional: Fun Fact or Quote -->
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
-
+> 💡 *“A circuit never lies.”* > A quote from my professor that reminds me to always face technical challenges with honesty and persistence.
