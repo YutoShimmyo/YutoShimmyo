@@ -1,36 +1,46 @@
-<svg class="My_Page" fill="none" viewBox="0 0 900 75" width="900" height="75" xmlns="http://www.w3.org/2000/svg" style="border-radius: 5px;">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                @-webkit-keyframes typing { 
-                    from { width: 0; } 
-                }
-                @-webkit-keyframes blink-caret { 
-                    50% { border-color: transparent; } 
-                }
-                .container {
-                    width: 100%;
-                    height: 100%;
-                    background: #000000;
-                    border-radius: 5px;
-                }
+<svg viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" width="900" height="150">
+  <style>
+    .line1, .line2 {
+      font: bold 32px monospace;
+      fill: #26e10b;
+    }
 
-                h1 {
-                    font: bold 300% Consolas, Monaco, monospace;
-                    border-right: .2em solid white;
-                    width: 35em;
-                    margin: 0.05em 1.15em;
-                    padding-top: 4px;
-                    white-space: nowrap;
-                    overflow: hidden;
-                    -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
-                    color: #26e10b;
-                    text-shadow: #26e10b 0px 0 5px;
-                }
-            </style>
-            <div class="container">
-                <h1>Welcome TO MyGitHub! I'm Yuto Shimmyo!!</h1>
-            </div>
-        </div>
-    </foreignObject>
+    @keyframes typing1 {
+      from { stroke-dasharray: 0, 1000; }
+      to { stroke-dasharray: 1000, 0; }
+    }
+
+    @keyframes typing2 {
+      from { stroke-dasharray: 0, 1000; }
+      to { stroke-dasharray: 1000, 0; }
+    }
+
+    .type1 {
+      stroke-dasharray: 1000, 0;
+      stroke-width: 0.5;
+      animation: typing1 2s steps(30, end) forwards;
+    }
+
+    .type2 {
+      stroke-dasharray: 0, 1000;
+      stroke-width: 0.5;
+      animation: typing2 2s steps(30, end) forwards;
+      animation-delay: 2.2s;
+    }
+
+    .cursor {
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <text x="50" y="60" class="line1 type1">Welcome TO MyGitHub</text>
+
+  <!-- Line 2 -->
+  <text x="50" y="110" class="line2 type2">I am Yuto Shimmyo</text>
+
 </svg>
