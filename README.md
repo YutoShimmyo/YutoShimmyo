@@ -56,9 +56,9 @@ I'm a Master's student in Japan, passionate about bridging the gap between human
 
 ### 📬 How to Reach Me
 
-- 🐦 **Twitter(X):** [@yourhandle](https://twitter.com/yourhandle)
-- 📫 **Email:** your.email@example.com
-- 🌐 **Portfolio/Blog:** [your-portfolio-site.com](https://your-portfolio-site.com)
+- 🐦 **Twitter(X):** Nothing now
+- 📫 **Email:** work.yuto.shimmyo@gmail.com
+- 🌐 **Portfolio/Blog:** https://note.com/yuto_shimmyo
 
 ---
 
