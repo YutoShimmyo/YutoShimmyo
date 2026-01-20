@@ -9,9 +9,7 @@
 </p>
 
 ## 👋 Hi, I'm Yuto Shimmyo
-<font size="12">
-I'm a Master's student in Japan, passionate about bridging the gap between human well-being and technology. My journey started with building **autonomous robots**, and now I'm focused on developing **on-device AI** systems that respect user privacy and enhance our daily lives. I enjoy tackling challenges from low-level hardware control to high-level AI model implementation.
-</font>
+###I'm a Master's student in Japan, passionate about bridging the gap between human well-being and technology. My journey started with building **autonomous robots**, and now I'm focused on developing **on-device AI** systems that respect user privacy and enhance our daily lives. I enjoy tackling challenges from low-level hardware control to high-level AI model implementation.
 ---
 
 ### 🛠️ Tech Stack
