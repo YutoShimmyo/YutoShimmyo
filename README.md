@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/header.svg" alt="Header" width="98%">
+  <img src="img/header.svg" alt="Header" width="98%">
 </p>
 
 <p align="right">
@@ -8,57 +8,116 @@
   </a>
 </p>
 
-## 👋 Hi, I'm Yuto Shimmyo
+# 👋 Hi, I'm Yuto Shimmyo
 
-I'm a Master's student in Japan, passionate about bridging the gap between human well-being and technology. My journey started with building **autonomous robots**, and now I'm focused on developing **on-device AI** systems that respect user privacy and enhance our daily lives. I enjoy tackling challenges from low-level hardware control to high-level AI model implementation.
----
+I'm a Master's student in Japan exploring the intersection of **human well-being** and **technology**.
 
-### 🛠️ Tech Stack
-
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-#### Tools & Environments
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion%20360-EF7C00?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autocad&logoColor=white)
+My background began with building **autonomous robots**, and my current focus is on developing **privacy-preserving on-device AI** systems that support better everyday life.  
+I enjoy working across the full stack of technology — from **hardware control and robotics** to **AI model implementation and mobile applications**.
 
 ---
 
-### 📈 GitHub Stats
+## 🔭 Current Focus
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
-  </tr>
-</table>
+- 🧠 On-device AI for digital well-being
+- 📱 Privacy-first mobile AI applications
+- 🤖 Robotics and autonomous navigation
+- 🛠️ Human-centered technology design
 
 ---
 
-### 📁 Featured Projects
+## 🛠️ Tech Stack
 
-- 🧠 **On-Device AI for Digital Well-being** — My master's research project. A privacy-first Android application that analyzes a user's "Positive Solitude" (quality alone time) using on-device multimodal AI. This project aims to enhance mental well-being by providing personalized feedback without sending sensitive data to the cloud.
-- 🤖 **Autonomous Robot for Robot Challenge** — Led a team to develop an autonomous navigation robot using ROS2 for the Nakanoshima Robot Challenge. Responsible for the overall system architecture, from mechanical design (Fusion 360) to software development (C++/Python).
-- 🍬 **Concentration-Boosting Gum Dispenser** — A fun Arduino-based robot that dispenses gum to help you focus. This project combines hardware control and simple mechanics. [**Watch the video!**](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl）)
-- 💻 **AI & Camp Hackathon Projects** — Participated in several hackathons including the All Japan AI Hackathon and GEEK CAMP, developing web applications using JavaScript and Python.
+### Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
+
+### Tools & Environments
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-EF7C00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-F29B0C?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
 
 ---
 
-### 📬 How to Reach Me
+## 📈 GitHub Stats
 
-- 🐦 **Twitter(X):** Nothing now
-- 📫 **Email:** work.yuto.shimmyo@gmail.com
-- 🌐 **Portfolio/Blog:** https://note.com/yuto_shimmyo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
 
 ---
 
-> 💡 *“A circuit never lies.”* > A quote from my professor that reminds me to always face technical challenges with honesty and persistence.
+## 📁 Featured Projects
+
+### 🧠 On-Device AI for Digital Well-being
+
+A privacy-first Android application for analyzing and supporting users' **Positive Solitude** — meaningful and restorative time spent alone.
+
+This project uses on-device multimodal AI to provide personalized feedback while keeping sensitive user data private.
+
+**Keywords:** On-device AI, Android, digital well-being, privacy, multimodal sensing
+
+---
+
+### 🤖 Autonomous Robot for Robot Challenge
+
+An autonomous navigation robot developed for the **Nakanoshima Robot Challenge**.
+
+I led the team and worked across the full development pipeline, including mechanical design, system architecture, ROS2-based navigation, and software implementation.
+
+**Keywords:** ROS2, C++, Python, autonomous navigation, Fusion 360
+
+---
+
+### 🍬 Concentration-Boosting Gum Dispenser
+
+An Arduino-based robot that dispenses gum to help improve focus.
+
+This project combines simple mechanics, hardware control, and playful interaction design.
+
+🎥 [Watch the video](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl)
+
+---
+
+### 💻 AI & Hackathon Projects
+
+Participated in several hackathons, including the **All Japan AI Hackathon** and **GEEK CAMP**.
+
+Built web applications and AI-powered prototypes using JavaScript, Python, and related technologies.
+
+**Keywords:** AI, web development, hackathon, prototyping
+
+---
+
+## 📬 Contact
+
+- 📫 Email: **work.yuto.shimmyo@gmail.com**
+- 🌐 Portfolio / Blog: [note.com/yuto_shimmyo](https://note.com/yuto_shimmyo)
+- 🐦 Twitter / X: Not available currently
+
+---
+
+<p align="center">
+  <i>“A circuit never lies.”</i>
+</p>
+
+<p align="center">
+  A quote from my professor that reminds me to face technical challenges with honesty and persistence.
+</p>
