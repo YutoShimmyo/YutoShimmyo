@@ -86,11 +86,40 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 
 [Watch the gum dispenser video](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl)
 
-### GitHub Stats
+## GitHub Stats
 
-![Yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      alt="Yuto Shimmyo's GitHub Stats"
+      width="49%"
+    />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="Top Languages"
+      width="41%"
+    />
+  </picture>
+</p>
 
 ### Contact
 
@@ -167,11 +196,40 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 
 [ガムディスペンサーの動画を見る](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl)
 
-### GitHub Stats
+## GitHub Stats
 
-![Yuto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+      alt="Yuto Shimmyo's GitHub Stats"
+      width="49%"
+    />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      alt="Top Languages"
+      width="41%"
+    />
+  </picture>
+</p>
 
 ### 連絡先
 
