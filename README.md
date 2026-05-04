@@ -102,12 +102,7 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight"
     alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutoShimmyo&theme=tokyonight&utcOffset=9"
-    alt="Productive Time"
-    width="48%"
+    width="70%"
   />
 </p>
 
@@ -117,16 +112,23 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight"
     alt="Repositories per Language"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
-    alt="Most Commit Language"
-    width="48%"
+    width="70%"
   />
 </p>
 
 <br />
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
+    alt="Most Commit Language"
+    width="70%"
+  />
+</p>
+
+<br />
+
+---
 
 ### Contact
 
@@ -219,12 +221,7 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight"
     alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutoShimmyo&theme=tokyonight&utcOffset=9"
-    alt="Productive Time"
-    width="48%"
+    width="70%"
   />
 </p>
 
@@ -234,16 +231,23 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight"
     alt="Repositories per Language"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
-    alt="Most Commit Language"
-    width="48%"
+    width="70%"
   />
 </p>
 
 <br />
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
+    alt="Most Commit Language"
+    width="70%"
+  />
+</p>
+
+<br />
+
+---
 ### 連絡先
 
 | 種別 | リンク |
