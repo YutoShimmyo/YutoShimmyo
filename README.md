@@ -90,19 +90,14 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoShimmyo&theme=tokyonight"
-    alt="GitHub Profile Details"
-    width="100%"
-  />
-</p>
-
-<br />
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight"
     alt="GitHub Stats"
-    width="70%"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutoShimmyo&theme=tokyonight&utcOffset=9"
+    alt="Productive Time"
+    width="48%"
   />
 </p>
 
@@ -112,23 +107,16 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight"
     alt="Repositories per Language"
-    width="70%"
+    width="48%"
   />
-</p>
-
-<br />
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
     alt="Most Commit Language"
-    width="70%"
+    width="48%"
   />
 </p>
 
 <br />
-
----
 
 ### Contact
 
@@ -206,22 +194,16 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 [ガムディスペンサーの動画を見る](https://youtu.be/XM0BuF9Rx6I?si=GLhVTOLnV6iDFzcl)
 
 ## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoShimmyo&theme=tokyonight"
-    alt="GitHub Profile Details"
-    width="100%"
-  />
-</p>
-
-<br />
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight"
     alt="GitHub Stats"
-    width="70%"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YutoShimmyo&theme=tokyonight&utcOffset=9"
+    alt="Productive Time"
+    width="48%"
   />
 </p>
 
@@ -231,23 +213,16 @@ My current focus is privacy-preserving AI systems that run directly on personal 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight"
     alt="Repositories per Language"
-    width="70%"
+    width="48%"
   />
-</p>
-
-<br />
-
-<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YutoShimmyo&theme=tokyonight"
     alt="Most Commit Language"
-    width="70%"
+    width="48%"
   />
 </p>
 
 <br />
-
----
 ### 連絡先
 
 | 種別 | リンク |
