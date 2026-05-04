@@ -89,36 +89,24 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      alt="Yuto Shimmyo's GitHub Stats"
-      width="49%"
-    />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      alt="Top Languages"
-      width="41%"
-    />
-  </picture>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoShimmyo&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight" 
+    alt="Repositories per Language"
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight" 
+    alt="GitHub Stats"
+    width="49%"
+  />
 </p>
 
 ### Contact
@@ -199,36 +187,24 @@ My current focus is privacy-preserving AI systems that run directly on personal 
 ## GitHub Stats
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=YutoShimmyo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-      alt="Yuto Shimmyo's GitHub Stats"
-      width="49%"
-    />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
-      media="(prefers-color-scheme: light)"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutoShimmyo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      alt="Top Languages"
-      width="41%"
-    />
-  </picture>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YutoShimmyo&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YutoShimmyo&theme=tokyonight" 
+    alt="Repositories per Language"
+    width="49%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YutoShimmyo&theme=tokyonight" 
+    alt="GitHub Stats"
+    width="49%"
+  />
 </p>
 
 ### 連絡先
